@@ -48,7 +48,7 @@
 
   | Параметр | Описание |
   | --- | --- |
-  | Choose Backups | |
+  | Choose Backups | Описывает |
   | 1. Duplication | |
   | 2. Catalog Backup |  |
   | 3. Eject |  |
