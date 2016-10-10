@@ -16,5 +16,10 @@
 5. !
   ![](/assets/Prom-VM-Win10-5.png)
 6. !
-7. 
+  ![](/assets/Prom-VM-Win10-6.png)
+7. !
+8. !
+9. !
+10. 
+11. 
 
