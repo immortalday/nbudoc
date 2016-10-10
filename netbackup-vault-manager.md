@@ -49,10 +49,10 @@
   | Параметр | Описание |
   | --- | --- |
   | Choose Backups | Описывает |
-  | 1. Duplication | |
-  | 2. Catalog Backup |  |
-  | 3. Eject |  |
-  | Reports |  |
+  | 1. Duplication | Описывает |
+  | 2. Catalog Backup | Описывает |
+  | 3. Eject | Описывает |
+  | Reports | Описывает |
 
 10. !
 
