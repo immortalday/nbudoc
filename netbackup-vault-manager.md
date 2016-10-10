@@ -14,6 +14,7 @@
   ![](/assets/Prom-VM-Win10-3.png)
   Выберите OK для продолжения.
 5. !
+  ![](/assets/Prom-VM-Win10-5.png)
 6. !
 7. 
 
