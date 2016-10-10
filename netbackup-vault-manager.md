@@ -18,6 +18,7 @@
 6. !
   ![](/assets/Prom-VM-Win10-6.png)
 7. !
+  ![](/assets/Prom-VM-Win10-7.png)
 8. !
 9. !
 10. 
