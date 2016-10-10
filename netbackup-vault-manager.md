@@ -17,14 +17,15 @@
   ![](/assets/Prom-VM-Win10-5.png)
 6. В окне создания **Vault**, в поле **Vault Name** укажите имя создаваемого **Vault**, в поле **Vault vendor** укажите имя \(произвольное, осмысленное\) поставщика хранения.
   ![](/assets/Prom-VM-Win10-6.png)
-  В области **When vaulting, use** выберите пунтк **Containers of many media**, в поле **Off-site volume group** укажите имя группы томов, в которую будут перемещаться медиа носители. 
+  В области **When vaulting, use** выберите пунтк **Containers of many media**, в поле **Off-site volume group** укажите имя группы томов, в которую будут перемещаться медиа носители.
 
   Затем выберите **OK**.
-7. 
-  ![](/assets/Prom-VM-Win10-7.png)
-8. 
-9. !
 
-10. 
+7. 
+8. ![](/assets/Prom-VM-Win10-7.png)
+9. 
+10. !
+
 11. 
+12. 
 
