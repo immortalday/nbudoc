@@ -46,19 +46,17 @@
 
   В окне настроек профиля доступны следующие параметры:
 
-  |  |  |
+  | Параметр | Описание |
   | --- | --- |
-  | Choose Backups |  |
-  | 1. Duplication |  |
+  | Choose Backups | |
+  | 1. Duplication | |
   | 2. Catalog Backup |  |
   | 3. Eject |  |
   | Reports |  |
 
+10. !
 
-10. 
 11. !
 
-12. !
-
-13. 
+12. 
 
