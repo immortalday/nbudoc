@@ -6,7 +6,7 @@
 
 \/\/ Описываем как создается NBU Vault
 
-1. Выполнить вход в консоль управления NetBackup Administrator Console
+1. Выполнить вход в консоль управления **NetBackup Administration Console**
 2. Перейти в раздел **Vault Management**
 3. В разделе **Vault Managent** через контекстное меню в правой области экрана выберите **New Vault Robot**, либо выберите иконку ![](/assets/Prom-VM-Win10-2.png) .
   ![](/assets/Prom-VM-Win10-1.png)
