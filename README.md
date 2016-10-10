@@ -1,3 +1,2 @@
-# My Awesome Book
+# Документация NetBackup 7.x и 7.7.x
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
