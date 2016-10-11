@@ -66,9 +66,14 @@
 
   Определяет выбор в соответствии со следующими критериями:
 
-  |  |  |
   | --- | --- |
-  |  |  |
+  | --- | --- |
+  | Clients |  |
+  | Backup types |
+  | Media servers |
+  | Backup policies |
+  | Shedules |
+  | Retention levels |
 
   **Параметр Location**
 
@@ -79,11 +84,10 @@
   |  |  |
 
 
+1. !
 
-10. !
+2. !
 
-11. !
-
-12. !
+3. !
 
 
