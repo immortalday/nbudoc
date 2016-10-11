@@ -66,10 +66,10 @@
 
   Определяет выбор в соответствии со следующими критериями:
 
-  | -Параметры Attribue | Описание |
-  | --- |
+  | Параметры Attribue | Описание |
+  | --- | --- |
   | Clients |  |
-  | Backup types |  |
+  | Backup types |   |
   | Media servers |  |
   | Backup policies |  |
   | Shedules |  |
