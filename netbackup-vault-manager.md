@@ -66,14 +66,14 @@
 
   Определяет выбор в соответствии со следующими критериями:
 
-  | --- | --- |
-  | --- | --- |
+  | -Параметры Attribue | Описание |
+  | --- |
   | Clients |  |
-  | Backup types |
-  | Media servers |
-  | Backup policies |
-  | Shedules |
-  | Retention levels |
+  | Backup types |  |
+  | Media servers |  |
+  | Backup policies |  |
+  | Shedules |  |
+  | Retention levels |  |
 
   **Параметр Location**
 
