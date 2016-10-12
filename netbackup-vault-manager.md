@@ -121,6 +121,10 @@
   | **Retention Level** | Опредеяет уровень хранения, например такой же как у оригинальной резервной копии, либо можно выставить произвольный|
   | **Media Owner** | Определяет владельца (медиа сервер / группу медиа серверов) на котороый выполняется дублирование образа резервной копии.|
   | **Make this copy primary** | Определяет, назначать ли дублированный образ резервной копии как основной образ резервной копии.|
+  |**Preserve multiplexing**||
+  |**Expire original disk backup images after hour(s)**||
+  |**Expire original tape backup images after hour(s)**||
+  |**Duplicate smaller images first (applies only to disk images)**||
   
   
 
