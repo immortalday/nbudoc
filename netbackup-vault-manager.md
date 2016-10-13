@@ -138,7 +138,7 @@
   
   |Параметр|Описание|
   |---|---|
-  |Skip the Catalog Backup set||
+  |Skip the Catalog Backup step||
   |Catalog Backup policy||
   |Vault catalog backup schedule||
   
