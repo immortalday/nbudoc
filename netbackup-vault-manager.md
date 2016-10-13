@@ -157,7 +157,7 @@
   |Skip the Eject step| Определяет, в случае если он выбран, что данный шаг не будет выполнен в профиле Vault|
   |Off-site volume pools|Определяет том(а) пула, который(у) будут использоваться как Off-site том (ленточные носители попавшие в этот том, могут быть извлечены). <br> Для того чтобы указать том, выберите **Add**, в окне выбора томов используя **Add (All)** и **Remove (All)** выберите том переместив его в область **Volume pools to include**. Для сохранения выберите **OK** &  |
   |Eject media from additional (non NetBackup) volume pool(s)| Определяет тома расположенные в VSM (Veritas Storage Migrator), которые также могут быть извлечены в рамках профиля Vault|
-  |Suspend this session media||
+  |Suspend this session media|Определяет параметры приостановки медиа носителя|
   |Suspend media for the next session||
   |Eject mode||
   |Use e-mail address from Robot or Vault Management Properties for eject notification||
