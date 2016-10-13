@@ -136,11 +136,11 @@
   
   Вкладка содержит следующие параметры:
   
-  |Параметр|Описание|
+  | Параметр | Описание |
   |---|---|
   |**Skip the Catalog Backup step**|Определяет, в случае если он выбран, что данный шаг не будет выполнен в профиле Vault |
   |**Catalog Backup policy**| Определяет существущую политику резервного копирования каталога NetBackup |
-  |**Vault catalog backup schedule**| Определяет существующее рассписание резервного копирования каталога NetBackup.|
+  |**Vault catalog backup schedule**| Определяет существующее рассписание резервного копирования каталога NetBackup|
   
   **Примечание:** рассписание для каталога NetBackup типа **Vault Catalog Backup** должно существовать. В случае, когда данные каталога NetBackup не подлежат дублированию, пропустите этот шаг.
   
@@ -149,6 +149,19 @@
   Вкладка **Eject** определяет параметры извлечения ленточных носителей.
   
   ![](/assets/Prom-VM-Win10-10.png)
+  
+  Вкладка содержит следующие параметры:
+  
+  | Параметр | Описание |
+  |---|---|
+  |Skip the Eject step| Определяет, в случае если он выбран, что данный шаг не будет выполнен в профиле Vault|
+  |Off-site volume pools|Определяет том(а) пула, который(у) будут использоваться как Off-site том (ленточные носители попавшие в этот том, могут быть извлечены). <br> Для того чтобы указать том, выберите **Add**, в окне выбора томов используя **Add (All)** и **Remove (All)** выберите том переместив его в область **Volume pools to include**. Для сохранения выберите **OK** &  |
+  |Eject media from additional (non NetBackup) volume pool(s)| Определяет тома расположенные в VSM (Veritas Storage Migrator), которые также могут быть извлечены в рамках профиля Vault|
+  |Suspend this session media||
+  |Suspend media for the next session||
+  |Eject mode||
+  |Use e-mail address from Robot or Vault Management Properties for eject notification||
+  
   
   #### Вкладка Reports
 
