@@ -163,9 +163,7 @@
   |**Use e-mail address from Robot or Vault Management Properties for eject notification**| Определяет e-mail указанный в параметрах **Vault Management Properties** на который будут отправляться оповещения об операциях извлечения медиа носителей, если этот параметр выбран.<br>В случае, если параметр не выбран, e-mail указывается вручную. |
   |**The ejected media will be moved to the following off-site volume group**| В этом поле отображается имя группы томов Off-site.|
   
-  
   #### Вкладка Reports
-  
   
   Вкладка Reports определяет правила формирования отчетов о выполнении профиля Vault.
   
