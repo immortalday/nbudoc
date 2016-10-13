@@ -134,6 +134,13 @@
   
   ![](/assets/Prom-VM-Win10-9.png)
   
+  Вкладка содержит следующие параметры:
+  
+  |Параметр|Описание|
+  |---|---|
+  |Skip the Catalog Backup set||
+  |Catalog Backup policy||
+  |Vault catalog backup schedule||
   
 
 8. !
